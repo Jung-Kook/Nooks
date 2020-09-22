@@ -1,0 +1,27 @@
+{
+  "name": "@nooks_test/use-timecheck",
+  "version": "1.0.0",
+  "description": "React Hook to check your time",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jung-Kook/Nooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "timer",
+    "time",
+    "check"
+  ],
+  "author": "Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jung-Kook/Nooks/issues"
+  },
+  "homepage": "https://github.com/Jung-Kook/Nooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
